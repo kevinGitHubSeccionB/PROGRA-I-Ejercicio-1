@@ -1,0 +1,3 @@
+C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/Tablas_del_4_y_6.dir
+C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
