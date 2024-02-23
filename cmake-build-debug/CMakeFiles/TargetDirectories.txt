@@ -1,3 +1,7 @@
-C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/Tablas_del_4_y_6.dir
+C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/calculadora-de-factorial.dir
+C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/el-numero-es-primo-o-no.dir
+C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/el-numero-es-par-o-no.dir
+C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/serie-de-fibonacci.dir
 C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/kevin/CLionProjects/Tablas del 4 y 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

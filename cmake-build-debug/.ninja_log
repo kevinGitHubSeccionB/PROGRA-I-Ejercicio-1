@@ -1,9 +1,13 @@
 # ninja log v5
-1	966	7303549572149515	CMakeFiles/Tablas_del_4_y_6.dir/main.cpp.obj	6c167e461f868acf
-970	1195	7303549574323563	Tablas_del_4_y_6.exe	bdb857d3e36c5041
-6	764	7303549960043050	CMakeFiles/Tablas_del_4_y_6.dir/main.cpp.obj	6c167e461f868acf
-765	959	7303549961933740	Tablas_del_4_y_6.exe	bdb857d3e36c5041
-7	959	7303553806759965	CMakeFiles/Tablas_del_4_y_6.dir/main.cpp.obj	6c167e461f868acf
-960	1149	7303553808577422	Tablas_del_4_y_6.exe	bdb857d3e36c5041
-7	733	7303554119093335	CMakeFiles/Tablas_del_4_y_6.dir/main.cpp.obj	6c167e461f868acf
-734	912	7303554120782548	Tablas_del_4_y_6.exe	bdb857d3e36c5041
+6	924	7303585727354352	CMakeFiles/Tablas_del_4_y_6.dir/main.cpp.obj	6c167e461f868acf
+928	1139	7303597389975751	el-numero-es-primo-o-no.exe	982de2bd03b5d591
+19	927	7303585727374894	CMakeFiles/Tablas_del_4_y_6.dir/calculadora-de-factorial.cpp.obj	aff576e5fca01b69
+6	804	7303587887617838	CMakeFiles/calculadora-de-factorial.dir/calculadora-de-factorial.cpp.obj	3f799dfa216e434e
+805	975	7303587889248738	calculadora-de-factorial.exe	97d7e4aa1a335b2b
+1	815	7303588270674895	CMakeFiles/main.dir/main.cpp.obj	275c105438905b6c
+816	1002	7303588272490514	main.exe	358967987fe46c63
+7	927	7303597387970759	CMakeFiles/el-numero-es-primo-o-no.dir/el-numero-es-primo-o-no.cpp.obj	a8fa097cec155dd6
+1	944	7303598520270929	CMakeFiles/el-numero-es-par-o-no.dir/el-numero-es-par-o-no.cpp.obj	e61bfbbd47d818d7
+945	1123	7303598521991664	el-numero-es-par-o-no.exe	ecb04e0a1af01972
+0	890	7303605789501005	CMakeFiles/serie-de-fibonacci.dir/serie-de-fibonacci.cpp.obj	8b67a490e8e751eb
+891	1130	7303605791809764	serie-de-fibonacci.exe	8d70b837c5e86cfa
